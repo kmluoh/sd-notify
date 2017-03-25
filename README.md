@@ -1,5 +1,7 @@
 # sd-notify
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/roryrjb/sd-notify.svg)](https://greenkeeper.io/)
+
 > Extremely minimal wrapper around [`sd_notify`](https://www.freedesktop.org/software/systemd/man/sd_notify.html)
 
 ### Installation
